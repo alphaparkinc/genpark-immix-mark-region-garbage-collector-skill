@@ -1,0 +1,15 @@
+{
+  "name": "genpark-immix-mark-region-garbage-collector-skill",
+  "version": "1.0.0",
+  "description": "Immix mark-region garbage collector utilizing hierarchical block and line marks, fine-grained object allocation, and opportunistic mark-sweep-evacuate defragmentation.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "garbage-collection",
+    "immix",
+    "mark-region",
+    "runtime-systems"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
